@@ -3,7 +3,7 @@
     "description": "Rest Api Laravel Admin resource",
     "keywords": [
         "aldhix",
-        "altar"
+        "raladmin"
     ],
     "type": "library",
     "license": "MIT",
