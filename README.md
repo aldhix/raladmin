@@ -69,6 +69,7 @@ Pada terminal :
 
 
 ### Header
+Middeware `auth:apiadmin` menggunakan athorization header bearer :
 
     Authorization : Bearer $token 
     X-Requested-With : XMLHttpRequest
