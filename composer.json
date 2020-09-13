@@ -1,0 +1,28 @@
+{
+    "name": "aldhix/raladmin",
+    "description": "Rest Api Laravel Admin resource",
+    "keywords": [
+        "aldhix",
+        "altar"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aldhi Xar",
+            "email": "aldhi.x@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Aldhix\\Raladmin\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Aldhix\\Raladmin\\ServiceProvider"
+            ]
+        }
+    }
+}
